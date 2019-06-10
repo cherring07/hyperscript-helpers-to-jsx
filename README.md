@@ -9,8 +9,8 @@
 5.  `nvm use`
 6.  `npm install`
 7.  Copy & paste your hyperscript-helpers files your want to convert into src
-8.  npm run convert
+8.  `npm run convert`
 
 ### Notes
 
-1.  To prevent undesired issues, I normally copy and paste files into the _src_ folder and then convert. This slightly antique approach means I can check the conversion before pasting back into other project.
+1.  To prevent undesired issues, I normally copy and paste files into the _src_ folder and then convert. This slightly antique approach means I can at least check the conversion before pasting back into the other project.
