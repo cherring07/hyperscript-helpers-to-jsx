@@ -4,7 +4,7 @@
 
 1.  Make sure that you have Node.js v8.15 and npm v5 or above installed.
 2.  `git@github.com:cherring07/hyperscript-helpers-to-jsx`
-3.  `cd cherring07/hyperscript-helpers-to-jsx`
+3.  `cd hyperscript-helpers-to-jsx`
 4.  `nvm install 8.15`
 5.  `nvm use`
 6.  `npm install`
